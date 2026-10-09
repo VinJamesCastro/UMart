@@ -1,0 +1,3 @@
+# Erase expired Order Requests after seven days
+
+An unconfirmed Order Request is hidden when its response or discussion deadline passes, then permanently erased with its request-only messages and notices seven days later to minimize retained personal data; a separate listing-level conversation can remain. If a report or moderation case needs those records, keep them until the case closes, then erase the request evidence while retaining a minimal case outcome and account-action history. This gives members a short period to raise a problem but removes the request as evidence for later support or response analysis.

@@ -1,0 +1,3 @@
+# Allow public listing discovery during the UHome pilot
+
+Anyone with the UMart link may browse listing titles, descriptions, photos, prices, categories, availability, and sellers' public usernames without signing in. Google sign-in is required for full profiles, optional floor details, saved listings, requests, messages, posting, ratings, and reports; it does not verify residency, and members may voluntarily include contact or exact room details in public listing content despite UMart's recommendation to share them privately. This avoids an administrative verification dependency during the pilot, but non-residents may see listings, so UMart describes itself as a UHome Community Marketplace rather than claiming a private or verified membership.
